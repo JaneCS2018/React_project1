@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/JaneCS2018/React_project1/static/css/main.cb77ef2c.chunk.css",
-    "main.js": "/JaneCS2018/React_project1/static/js/main.53f28918.chunk.js",
-    "main.js.map": "/JaneCS2018/React_project1/static/js/main.53f28918.chunk.js.map",
-    "runtime-main.js": "/JaneCS2018/React_project1/static/js/runtime-main.f5f6d654.js",
-    "runtime-main.js.map": "/JaneCS2018/React_project1/static/js/runtime-main.f5f6d654.js.map",
-    "static/js/2.560da442.chunk.js": "/JaneCS2018/React_project1/static/js/2.560da442.chunk.js",
-    "static/js/2.560da442.chunk.js.map": "/JaneCS2018/React_project1/static/js/2.560da442.chunk.js.map",
-    "index.html": "/JaneCS2018/React_project1/index.html",
-    "precache-manifest.677d76eb589622956e772e0fd629c65c.js": "/JaneCS2018/React_project1/precache-manifest.677d76eb589622956e772e0fd629c65c.js",
-    "service-worker.js": "/JaneCS2018/React_project1/service-worker.js",
-    "static/css/main.cb77ef2c.chunk.css.map": "/JaneCS2018/React_project1/static/css/main.cb77ef2c.chunk.css.map",
-    "static/js/2.560da442.chunk.js.LICENSE.txt": "/JaneCS2018/React_project1/static/js/2.560da442.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/JaneCS2018/React_project1/static/media/background_search_mobile.5d0905e6.jpg"
+    "main.css": "/JaneCS2018/React_R/static/css/main.7c893011.chunk.css",
+    "main.js": "/JaneCS2018/React_R/static/js/main.0b1194ff.chunk.js",
+    "main.js.map": "/JaneCS2018/React_R/static/js/main.0b1194ff.chunk.js.map",
+    "runtime-main.js": "/JaneCS2018/React_R/static/js/runtime-main.28ae3f87.js",
+    "runtime-main.js.map": "/JaneCS2018/React_R/static/js/runtime-main.28ae3f87.js.map",
+    "static/js/2.560da442.chunk.js": "/JaneCS2018/React_R/static/js/2.560da442.chunk.js",
+    "static/js/2.560da442.chunk.js.map": "/JaneCS2018/React_R/static/js/2.560da442.chunk.js.map",
+    "index.html": "/JaneCS2018/React_R/index.html",
+    "precache-manifest.2163f42a2a245ec47ef8185620363673.js": "/JaneCS2018/React_R/precache-manifest.2163f42a2a245ec47ef8185620363673.js",
+    "service-worker.js": "/JaneCS2018/React_R/service-worker.js",
+    "static/css/main.7c893011.chunk.css.map": "/JaneCS2018/React_R/static/css/main.7c893011.chunk.css.map",
+    "static/js/2.560da442.chunk.js.LICENSE.txt": "/JaneCS2018/React_R/static/js/2.560da442.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/JaneCS2018/React_R/static/media/background_search_mobile.5d0905e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5f6d654.js",
+    "static/js/runtime-main.28ae3f87.js",
     "static/js/2.560da442.chunk.js",
-    "static/css/main.cb77ef2c.chunk.css",
-    "static/js/main.53f28918.chunk.js"
+    "static/css/main.7c893011.chunk.css",
+    "static/js/main.0b1194ff.chunk.js"
   ]
 }
